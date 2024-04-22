@@ -30,9 +30,12 @@ $ streamlit run app.py
 
 ### Contributors
 
-[sarwari-mallela](https://github.com/sarwari-mallela): Obtained dataset and formatted the data into the necessary Davinci-002 'completion' format.
+[sarwari-mallela](https://github.com/sarwari-mallela): Obtained dataset and formatted the data into the necessary Davinci-002 'completion' format and 'chat-completion' for GPT-3.5-Turbo.
+
 [cheblimarc4](https://github.com/cheblimarc4): Created the entire Streamlit frontend.
+
 [11acc](https://github.com/11acc): Fine-tuned Davinci-002 and GPT-3.5-Turbo models. Connected the GPT-3.5-Turbo to the Streamlit frontend allowing API calls based on user input through the frontend. Assisted with the data formatting into 'chat-completion' for GPT-3.5-Turbo.
+
 [solsylph](https://github.com/solsylph): Researched.
 
 ### License
